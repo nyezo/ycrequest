@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crt-science-v1.1" transform="translate(-130.000000, -8170.000000)">
+            <g id="Group-21" transform="translate(130.000000, 7982.000000)">
+                <g id="Group-17">
+                    <g id="logo" transform="translate(0.000000, 188.000000)">
+                        <polygon id="Fill-1" fill="#F06827" points="0 60 60 60 60 0 0 0"></polygon>
+                        <path d="M18,14 L22.6561538,14 L28.6492308,26.0792308 C29.5253846,27.8776923 30.2630769,29.6292308 30.2630769,29.6292308 C30.2630769,29.6292308 31.0469231,27.9238462 31.9692308,26.0792308 L38.0553846,14 L42.3892308,14 L32.1069231,33.3176923 L32.1069231,45.6276923 L28.1892308,45.6276923 L28.1892308,33.0876923 L18,14" id="Fill-3" fill="#FFFFFE"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

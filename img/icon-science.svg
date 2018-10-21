@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>container [#1312]</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crt-landing-page-v1.2" transform="translate(-195.000000, -2735.000000)" fill="#F57C01">
+            <g id="Group-12" transform="translate(190.000000, 2714.000000)">
+                <path d="M15,26 L12,26 C11.448,26 11,26.448 11,27 C11,27.552 11.448,28 12,28 L15,28 L15,30 L12,30 C11.448,30 11,30.448 11,31 C11,31.552 11.448,32 12,32 L15,32 L15,34 L12,34 C11.448,34 11,34.448 11,35 C11,35.552 11.448,36 12,36 L15,36 L15,38 C15,38.552 14.552,39 14,39 L10,39 C9.448,39 9,38.552 9,38 L9,23 L15,23 L15,26 Z M5,22 L5,22 C5,22.552 5.448,23 6,23 L7,23 L7,39 C7,40.105 7.895,41 9,41 L15,41 C16.105,41 17,40.105 17,39 L17,23 L18,23 C18.552,23 19,22.552 19,22 C19,21.448 18.552,21 18,21 L6,21 C5.448,21 5,21.448 5,22 L5,22 Z" id="container-[#1312]"></path>
+            </g>
+        </g>
+    </g>
+</svg>
