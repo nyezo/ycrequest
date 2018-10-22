@@ -11,7 +11,7 @@
 				<h1>Desert <br class="not-mob">Flooding</h1>
 			</div>
 		</div>
-		<img src="<?=$baseUrl?>/img/bg-desert.svg" class="hero-img" alt="">
+		<img src="<?=$baseUrl?>img/bg-desert.svg" class="hero-img" alt="">
 	</div>
 	<div class="container">
 		<div class="width">
@@ -66,13 +66,13 @@
 			<section id="in-depth">
 				<div class="white-box padded-80">
 					<h2>In-depth description & science</h2>
-					<img src="<?=$baseUrl?>/img/ill-desert-1.svg" alt="">
+					<img src="<?=$baseUrl?>img/ill-desert-1.svg" alt="">
 					<div class="padded-80">
 						<p>To execute on this system, we would need to fill our reservoirs with seawater, which requires 9 trillion m3 at a 2m reservoir depth. This water will have to be desalinated and transported from its source. In addition, we would need to have a run-rate replenishment of 100% per year based on observations that at tropical latitudes evaporation rates can be up to 2,000mm per year. In order to fill and continuously support this system, we would need to have renewable energy sources. The entire system would be designed to be filled within a year and replenished at that rate.</p>
 						<p>To connect the entire system would require the construction of a piping system to transport the water from the plants to the reservoirs. This system will need to support the replenishment rate of 100% and the potential distance from salt water sources of up to YY km.</p>
 						<p>Next, we would have to build the reservoirs. Instead of digging millions of holes, we could sinter a base and put a 3m sand barrier up for each reservoir. There has been research in using desert sand as construction material to avoid the mass use of outside inputs to create both the overall reservoir as its components such as its floors. With the advances in construction automation we could imagine using drones to automate the whole construction process.</p>
 					</div>
-					<img src="<?=$baseUrl?>/img/ill-desert-2.svg" alt="">
+					<img src="<?=$baseUrl?>img/ill-desert-2.svg" alt="">
 					<div class="padded-80">
 						<p>In addition, we would need to design operating systems that would grow and maintain the phytoplankton cultures and overall reservoirs. To monitor culture growth, potential contaminants, and distribute nutrients on demand, there would be a coordinated feedback loop between aquatic, biological-sensing drones that patrol the reservoirs and their flying counterparts that image reservoirs from the air while shipping nutrients quickly across our vast operations of oases. We are pretty good at making things smaller, faster, cheaper so we would need to focus our attention on details like improving practical biological sensing in the wild as well as optimizing load-bearing capacity for efficient distribution of nutrients.</p>
 						<p>Assuming we can refine the technical implementation of the distributed infrastructure and engineer the phytoplankton to further increase carbon sequestration and/or produce commercial byproducts, the next steps would be to stabilize the ecosystem around our reservoirs by attempting to reforest using the phytoplankton biomass as the nutrient source - making sure it isn't consumed by bacteria and the carbon respirated back into the atmosphere - while adding seeding duties to our flying drones.</p>

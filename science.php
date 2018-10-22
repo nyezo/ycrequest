@@ -11,7 +11,7 @@
 				<h1>Science</h1>
 			</div>
 		</div>
-		<img src="<?=$baseUrl?>/img/bg-science.svg" class="hero-img" alt="">
+		<img src="<?=$baseUrl?>img/bg-science.svg" class="hero-img" alt="">
 	</div>
 	<div class="container">
 		<div class="width">
@@ -24,8 +24,8 @@
 							<div class="extras">
 								<h5>WATCH A VIDEO</h5>
 								<ul class="has-icons">
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt=""><a href="#">Visualize CO2 using special cameras.</a></li>
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt=""><a href="#">What 1 tonne of CO2 looks like. 35 Billion tonnes of CO2 is released per year.</a></li>
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="#">Visualize CO2 using special cameras.</a></li>
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="#">What 1 tonne of CO2 looks like. 35 Billion tonnes of CO2 is released per year.</a></li>
 								</ul>
 							</div>
 							<div class="extras">
@@ -60,7 +60,7 @@
 						<p>Phytoplankton live in upper sunlit layer of almost all oceans and bodies of fresh water on Earth. They obtain energy through photosynthesis, a process that uses CO2 and light.</p>
 					</div>
 					<div class="item">
-						<img class="offset offset-right" src="<?=$baseUrl?>/img/ill-phytoplankton.svg" alt="">
+						<img class="offset offset-right" src="<?=$baseUrl?>img/ill-phytoplankton.svg" alt="">
 					</div>
 				</div>
 
@@ -68,13 +68,11 @@
 					<div class="item">
 						<div class="white-box padded-20">
 							<div class="extras">
-								<h5>Watch Videos</h5>
+								<h5>Learn more</h5>
 								<ul class="has-icons">
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg"><a href="https://www.youtube.com/watch?v=hJAWIrJVVkM" target="_blank">The Ocean’s Biological Pump</a></li>
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg"><a href="https://www.youtube.com/watch?v=2D7hZpIYlCA" target='_blank'>The Hydrologic and Carbon Cycles: Crash Course Ecology #8</a></li>
 								</ul>
-								<div class="footnote mt-1">Why this is important description for the windows. It should be a short paragraph.</div>
 							</div>
 						</div>
 					</div>
@@ -94,8 +92,8 @@
 						<div class="contents extras">
 							<h5>Read more on this topic</h5>
 							<ul class="has-icons">
-								<li><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""><a href="#">Phytoplankton as Key Mediators of the Biological Carbon Pump: Their Responses to a Changing Climate</a></li>
-								<li><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""><a href="#">Phytoplankton on Wikipedia</a></li>
+								<li><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""><a href="https://www.mdpi.com/2071-1050/10/3/869" target="_blank">Phytoplankton as Key Mediators of the Biological Carbon Pump: Their Responses to a Changing Climate</a></li>
+								<li><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""><a href="https://en.wikipedia.org/wiki/Phytoplankton" target="_blank">Phytoplankton on Wikipedia</a></li>
 							</ul>
 						</div>
 					</div>
@@ -108,7 +106,7 @@
 			<section id="section-3">
 				<div class="group item-text item-bottom">
 					<div class="item">
-						<img src="<?=$baseUrl?>/img/ill-ph.svg" alt="" class="offset offset-left">
+						<img src="<?=$baseUrl?>img/ill-ph.svg" alt="" class="offset offset-left">
 					</div>
 					<div class="text">
 						<div class="no">2</div>
@@ -127,11 +125,8 @@
 							<div class="extras">
 								<h5>Watch a video</h5>
 								<ul class="has-icons">
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
-									<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg"><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg"><a href="https://www.youtube.com/watch?v=fgBozLCGUHY" target="_blank">pH and Ocean Acidification</a></li>
 								</ul>
-								<div class="footnote mt-1">Why this is important description for the windows. It should be a short paragraph.</div>
 							</div>
 						</div>
 					</div>
@@ -139,11 +134,10 @@
 				<div class="group item-text">
 					<div class="item">
 						<div class="contents padded-left extras">
-							<h5><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
+							<h5><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
 							<ul class="has-icons">
-								<li><a href="#">Preventing Climate Change by Increasing Ocean Alkalinity</a></li>
-								<li><a href="#">What is Ocean Acidification?</a></li>
-								<li><a href="#">Ocean acidification on Wikipedia</a></li>
+								<li><a href="https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification" target="_blank">What is Ocean Acidification?</a></li>
+								<li><a href="https://en.wikipedia.org/wiki/Ocean_acidification" target="_blank">Ocean acidification on Wikipedia</a></li>
 							</ul>
 						</div>
 					</div>
@@ -166,7 +160,7 @@
 						<p>Our breweries are environments for microorganisms to grow in large vats of water. We tweak things like humidity & temperature along with the mix of nutrients we add to the water and specific strains of yeast to bring out desired flavor profiles. The more control we have over our fermentation environment the more consistent the end product - hence, we have bioreactors or (usually closed) containers that give us control over parameters such as everything going in/out, humidity, temperature, pressure, gas concentrations, as well as physical agitation and spectral sampling.</p>
 					</div>
 					<div class="item">
-						<img class="offset offset-right" src="<?=$baseUrl?>/img/ill-electrolysis.svg" alt="">
+						<img class="offset offset-right" src="<?=$baseUrl?>img/ill-electrolysis.svg" alt="">
 					</div>
 				</div>
 				<div class="group item-text">
@@ -174,15 +168,14 @@
 						<div class="white-box extras padded-20">
 							<h5>Watch a video</h5>
 							<ul class="has-icons">
-								<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt=""><a href="#">The Hydrologic and Carbon Cycles: Always Recycle! - Crash Course Ecology #8</a></li>
+								<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="https://www.youtube.com/watch?v=u468xY1T8fw" target="_blank">How Lab-Grown Meat is Made</a></li>
 							</ul>
 						</div>
 						<div class="extras mt-2 contents padded-left">
-							<h5><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
+							<h5><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
 							<ul class="has-icons">
-								<li><a href="#">Preventing Climate Change by Increasing Ocean Alkalinity</a></li>
-								<li><a href="#">What is Ocean Acidification?</a></li>
-								<li><a href="#">Ocean acidification on Wikipedia</a></li>
+								<li><a href="https://www.smithsonianmag.com/innovation/future-will-we-be-growing-fruit-home-bioreactors-180968133/" target="_blank">Will We Be Growing Fruit in Home Bioreactors?</a></li>
+								<li><a href="https://www.new-harvest.org/cellular_agriculture" target='_blank'>About Cellular Agriculture</a></li>
 							</ul>
 						</div>
 					</div>
@@ -214,13 +207,13 @@
 						<div class="white-box extras padded-20">
 							<h5>Watch a video</h5>
 							<ul class="has-icons">
-								<li><img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt=""><a href="#">How Enzymes Work</a></li>
+								<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="https://www.youtube.com/watch?v=yk14dOOvwMk" target="_blank">How Enzymes Work</a></li>
 							</ul>
 						</div>
 						<div class="extras mt-2 contents padded-left">
-							<h5><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
+							<h5><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
 							<ul class="has-icons">
-								<li><a href="#">Enzymes and the active site</a></li>
+								<li><a href="https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzymes-and-the-active-site" target="_blank">Enzymes and the active site</a></li>
 							</ul>
 						</div>
 					</div>
@@ -229,7 +222,7 @@
 
 			<section class="mt-6">
 				<div class="width narrow">
-					<h2>Fronteer Technologies</h2>
+					<h2>Frontier Technologies</h2>
 				</div>
 				<div class="mt-2">
 					<?php include "frontier-technologies.php"; ?>

@@ -10,7 +10,7 @@
 			<h1>Carbon Removal Technologies</h1>
 		</div>
 	</div>
-	<img src="<?=$baseUrl?>/img/home-hero.svg" class="hero-img" alt="">
+	<img src="<?=$baseUrl?>img/home-hero.svg" class="hero-img" alt="">
 </div>
 
 <div class="container">
@@ -24,11 +24,10 @@
 					<p>If we knew how to get the world to drastically reduce carbon dioxide emissions, we'd do that. Each year we spend hundreds of millions to reduce carbon dioxide emissions. Recent research indicates that we're past the tipping point. It's a collective action problem the world has been unable to solve - emitting carbon provides great individual benefit today at a great cost to us in the future. Adopting renewable energy and reducing future emissions is not enough to stop climate change. We need to do more to undo the harm we have done.</p>
 				</div>
 				<div class="contents padded-left extras">
-					<h5><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
+					<h5><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""> Read more on this topic</h5>
 					<ul>
-						<li><a href="https://www.nytimes.com/interactive/2018/10/07/climate/ipcc-report-half-degree.html" target="_blank">Why Half a Degree of Global</a></li>
 						<li><a href="http://www.ipcc.ch/report/sr15/" target="_blank">IPCC special report on the impacts of global warming</a></li>
-						<li><a href="https://www.nationalgeographic.com/people-and-culture/food/the-plate/2016/11/seaweed-may-be-the-solution-for-burping-cows/?user.testname=none" target="_blank">A Sprinkle of Seaweed Could Deflate Gassy Cows</a></li>
+						<li><a href="https://www.nytimes.com/interactive/2018/10/07/climate/ipcc-report-half-degree.html" target="_blank">Why Half a Degree of Global Warming Is a Big Deal</a></li>
 					</ul>
 				</div>
 			</div>
@@ -57,9 +56,9 @@
 				<div class="white-box mt-1">
 					<div class="padded-30-80">
 						<div class="p-r">
-							<img class="offset abs offset-left not-mob" src="<?=$baseUrl?>/img/icon-bulb.svg" alt="">
+							<img class="offset abs offset-left not-mob" src="<?=$baseUrl?>img/icon-bulb.svg" alt="">
 							<h5 class="orange">About these ideas</h5>
-							<div class="sans">Ideas contributed by Gabriel Lopez, Zack Abbott, Greg Rau, Leonid Kozhunk, and Sam Altman. Text about being open to other ideas (link to methane gas).</div>
+							<div class="sans">Ideas contributed by Gabriel Lopez, Zack Abbott, Greg Rau, Leonid Kozhunk, and Sam Altman. We are excited to fund any other approaches, even if they are not <a href="https://www.nationalgeographic.com/people-and-culture/food/the-plate/2016/11/seaweed-may-be-the-solution-for-burping-cows/?user.testname=none" target="_blank">not related</a> to carbon sequestration.
 						</div>
 					</div>
 				</div>
@@ -71,12 +70,12 @@
 			<div class="group item-text">
 				<div class="item">
 					<div class="contents extras padded-left">
-						<h5><img src="<?=$baseUrl?>/img/icon-science.svg" alt="">The Science</h5>
+						<h5><img src="<?=$baseUrl?>img/icon-science.svg" alt="">The Science</h5>
 						<div class="white-box padded-30 mt-1">
-							<img src="<?=$baseUrl?>/img/ill-electrolysis.svg" alt="">
+							<img src="<?=$baseUrl?>img/ill-electrolysis.svg" alt="">
 						</div>
 						<ul class="mt-2">
-							<li><a href="/science">Dig into a bit of general science to help you understand the ideas better</a></li>
+							<li><a href="<?=$baseUrl?>science">Dig into a bit of general science to help you understand the ideas better</a></li>
 						</ul>
 					</div>
 				</div>
@@ -101,7 +100,7 @@
 							<li><a href="#tab-srm"><span class="not-mob">Solar Radation Management</span><span class="mob">SRM</span></a></li>
 						</ul>
 						<div class="footnote">
-							An in-depth evaluation of these approaches can be found in <a href="#">this paper</a>.
+							An in-depth evaluation of these approaches can be found in <a href="http://www.obs-vlfr.fr/~gattuso/publications_PDF/Gattuso_etal_2018_Frontiers%20in%20Marine%20Science.pdf" target="_blank">this paper</a>.
 						</div>
 					</div>
 					<div class="content-wp">
@@ -114,12 +113,12 @@
 								<h5>More on this topic</h5>
 								<ul class="has-icons">
 									<li>
-										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""></span>
-										<a href="https://www.notion.so/cdrrfs/P1-Intro-a5587986598c4ced80d23652131df582#207ba6da0de4463b8c7f5a2a283cffff" target="_blank">World can limit global warming to 1.5C ‘without BECCS’</a>
+										<img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt="">
+										<a href="https://www.youtube.com/watch?v=qLsH84dlV1Y" target="_blank">A technofix for the climate? Land-based geoengineering (BECCS)</a>
 									</li>
 									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
-										<a href="https://www.youtube.com/watch?v=qLsH84dlV1Y" target="_blank">A technofix for the climate? Land-based geoengineering (BECCS)</a>
+										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""></span>
+										<a href="https://www.notion.so/cdrrfs/P1-Intro-a5587986598c4ced80d23652131df582#207ba6da0de4463b8c7f5a2a283cffff" target="_blank">World can limit global warming to 1.5C ‘without BECCS’</a>
 									</li>
 								</ul>
 							</div>
@@ -134,16 +133,12 @@
 								<h5>More on this topic</h5>
 								<ul class="has-icons">	
 									<li>
-										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""></span>
-										<a href="https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering" target="_blank">Sucking carbon out of the air won’t solve climate change</a>
-									</li>
-									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
+										<img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt="">
 										<a href="https://www.youtube.com/watch?v=MmcV4B4xy3Y" target="_blank">Direct air capture: Iceland opens first negative emissions power plant - TomoNews</a>
 									</li>
 									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
-										<a href="https://www.youtube.com/watch?v=63S0t4k_Glw" target="_blank">Climeworks - Capturing CO2 from air</a>
+										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""></span>
+										<a href="https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering" target="_blank">Sucking carbon out of the air won’t solve climate change</a>
 									</li>
 								</ul>
 							</div>
@@ -154,18 +149,14 @@
 							<p>One researcher contends that burning and burying 10 percent of the world’s biomass waste would sequester nearly 5 Gton of CO2  annually. The logistics of actually converting 10 percent or more of the world’s organic waste into biochar and burying the result are, at this point at least, incredibly daunting.</p>
 							<div class="extras contents small mt-2">
 								<h5>More on this topic</h5>
-								<ul class="has-icons">	
+								<ul class="has-icons">
 									<li>
-										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""></span>
-										<a href="https://e360.yale.edu/features/refilling_the_carbon_sink_biochars_potential_and_pitfalls" target="_blank">Refilling the Carbon Sink: Biochar’s Potential and Pitfalls</a>
-									</li>
-									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
+										<img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt="">
 										<a href="https://vimeo.com/251245935" target="_blank">Fixing Carbon: The Carbon Cycle Solution to our Climate Crisis</a>
 									</li>
 									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
-										<a href="https://www.youtube.com/watch?v=63S0t4k_Glw" target="_blank">Climeworks - Capturing CO2 from air</a>
+										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""></span>
+										<a href="https://e360.yale.edu/features/refilling_the_carbon_sink_biochars_potential_and_pitfalls" target="_blank">Refilling the Carbon Sink: Biochar’s Potential and Pitfalls</a>
 									</li>
 								</ul>
 							</div>
@@ -179,12 +170,12 @@
 								<h5>More on this topic</h5>
 								<ul class="has-icons">	
 									<li>
-										<img class="icon-video" src="<?=$baseUrl?>/img/icon-video.svg" alt="">
+										<img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt="">
 										<a href="https://www.youtube.com/watch?v=OBTVK8ajqa4" target="_blank">A technofix for the climate? Atmospheric geoengineering (Solar Radiation Management)</a>
 									</li>
 									<li>
-										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>/img/icon-bookmark.svg" alt=""></span>
-										<a href="https://www.nap.edu/read/12782/chapter/19#381" target="_blank">Stratosphere-Based Options (Advancing the Science of Climate Change)</a>
+										<span class="icon-wp"><img class="icon-bookmark" src="<?=$baseUrl?>img/icon-bookmark.svg" alt=""></span>
+										<a href="https://www.nap.edu/read/12782/chapter/19" target="_blank">Stratosphere-Based Options (Advancing the Science of Climate Change)</a>
 									</li>
 								</ul>
 							</div>
@@ -193,8 +184,6 @@
 				</div>
 			</div>
 		</section>
-		
-
 	</div>
 </div>
 

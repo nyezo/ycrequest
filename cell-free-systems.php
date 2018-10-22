@@ -11,7 +11,7 @@
 				<h1>Cell-Free <br class="not-mob">Enzyme Systems</h1>
 			</div>
 		</div>
-		<img src="<?=$baseUrl?>/img/bg-free-cell.svg" class="hero-img" alt="">
+		<img src="<?=$baseUrl?>img/bg-free-cell.svg" class="hero-img" alt="">
 	</div>
 	<div class="container">
 		<div class="width">
@@ -65,7 +65,7 @@
 			<section id="in-depth">
 				<div class="white-box padded-80">
 					<h2>In-depth description & science</h2>
-					<img src="<?=$baseUrl?>/img/ill-desert-1.svg" alt="">
+					<img src="<?=$baseUrl?>img/ill-desert-1.svg" alt="">
 					<div class="padded-80">
 						<h3>Inputs, outputs, and balancing the system</h3>
 						<p>To make a cell-free enzyme system (or cell-free system, or CFS) useful, the goal is to make it completely regenerative and balanced with respect to co-factors and chemical energy so that the system needs minimal input.  For instance, arguably the most famous carbon-fixation system is the Calvin Cycle, in which a cycle of reactions fixes a CO2 molecule to a growing sugar molecule and in the process consumes 3 ATP molecules to ADP and 2 NADPH molecules to NADP.  As such, for the cycle to continue, ADP has to be converted back to ATP and NADP has to be converted back to NADPH.  Plant cells handle this by using photosynthesis to generate the energy necessary to replenish these co-factors that are necessary for the Calvin Cycle.  Similarly, any necessary co-factors for a carbon-fixation pathway utilized in a CFS would need to be replenished by auxiliary pathways or subsequent reactions in the carbon-fixation pathway.  Ultimately, the system would ideally be designed to be completely balanced.</p>

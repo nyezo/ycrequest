@@ -11,7 +11,7 @@
 				<h1>Ocean <br class="not-mob">Phytoplankton</h1>
 			</div>
 		</div>
-		<img src="<?=$baseUrl?>/img/bg-phyto.svg" class="hero-img" alt="">
+		<img src="<?=$baseUrl?>img/bg-phyto.svg" class="hero-img" alt="">
 	</div>
 	<div class="container">
 		<div class="width">
@@ -78,7 +78,7 @@
 			<section id="in-depth">
 				<div class="white-box padded-80">
 					<h2>In-depth description & science</h2>
-					<img src="<?=$baseUrl?>/img/ill-phyto-1.svg" alt="">
+					<img src="<?=$baseUrl?>img/ill-phyto-1.svg" alt="">
 					<div class="padded-80">
 						<h3 class="p-r"><div class="no offset not-mob">1</div>Grow and dump/boat-based cultivation and distribution</h3>
 						<p>The most straight forward approach for using a phytoplankton strategy is to treat it as a massive logistics problem: how do we make and distribute enough phytoplankton to put a dent in CO2. For example, we could imagine using 1000 ships towing giant photosynthetic bioreactors that are constantly generating a genetically engineered cyanobacteria/phytoplankton. Each time the cyanobacteria/phytoplankton population doubles (which can be as fast as every 2 hours in optimal conditions), half could be dumped overboard where the microbes would switch out of "growth mode" and into "CDR mode."</p>
@@ -120,7 +120,7 @@
 						<p>This technology could be programmed to have some really useful behavior. One side of the massive tube could float towards the sea surface and sprout leaf-like structures, while the other side might sink to the bottom of the ocean and attach itself into the ocean floor, putting out "roots." We would have essentially built a primitive tree-like entity.</p>
 						<p>If we build it right, the hollow center, might be able to draw up mineral nutrients from the ocean floor and deliver them to the the photosynthetic surface of the sea. This could fertilize the growth of more self-assembling mega-structures. Depending on nutrient availability, these entities could be engineered to create all sorts of interesting structures in the open ocean and could even create whole new ecosystems for marine wildlife.</p>
 					</div>
-					<img src="<?=$baseUrl?>/img/ill-phyto-2.svg" alt="">
+					<img src="<?=$baseUrl?>img/ill-phyto-2.svg" alt="">
 					<div class="padded-80">
 						<h3 class="p-r mt-2"><div class="no offset not-mob">3</div>Metal-free biology/Mineral-free biology/alternative biochemistry/second abiogenesis</h3>
 						<p>Up until now, we have stayed within the limits of known biology. Everything up till now has precedent. But we want to think big. So we are leaving precedent behind and trekking into future technologies.</p>

@@ -11,7 +11,7 @@
 				<h1>Electro-Geo <br class="not-mob">Chemistry</h1>
 			</div>
 		</div>
-		<img src="<?=$baseUrl?>/img/bg-electrogeo.svg" class="hero-img" alt="">
+		<img src="<?=$baseUrl?>img/bg-electrogeo.svg" class="hero-img" alt="">
 	</div>
 	<div class="container">
 		<div class="width">
@@ -52,7 +52,7 @@
 							<div class="value">90-900<span class="small">Gt</span> CO2<br> <span class="small">per year</span></div>
 						</div>
 						<div class="info">
-							<img src="<?=$baseUrl?>/img/electrogeo-co2-graph.png" alt="">
+							<img src="<?=$baseUrl?>img/electrogeo-co2-graph.png" alt="">
 						</div>
 					</div>
 				</div>
