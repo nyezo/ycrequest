@@ -70,6 +70,7 @@
 					<div class="padded-80">
 						<p>To execute on this system, we would need to fill our reservoirs with seawater, which requires 9 trillion m3 at a 2m reservoir depth. This water will have to be desalinated and transported from its source. In addition, we would need to have a run-rate replenishment of 100% per year based on observations that at tropical latitudes evaporation rates can be up to 2,000mm per year. In order to fill and continuously support this system, we would need to have renewable energy sources. The entire system would be designed to be filled within a year and replenished at that rate.</p>
 						<p>To connect the entire system would require the construction of a piping system to transport the water from the plants to the reservoirs. This system will need to support the replenishment rate of 100% and the potential distance from salt water sources of up to YY km.</p>
+						<?php include "definitions-units.php"; ?>
 						<p>Next, we would have to build the reservoirs. Instead of digging millions of holes, we could sinter a base and put a 3m sand barrier up for each reservoir. There has been research in using desert sand as construction material to avoid the mass use of outside inputs to create both the overall reservoir as its components such as its floors. With the advances in construction automation we could imagine using drones to automate the whole construction process.</p>
 					</div>
 					<img src="<?=$baseUrl?>img/ill-desert-2.svg" alt="">

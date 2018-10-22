@@ -297,7 +297,7 @@ footer{ margin-top: 80px; padding-bottom: 100px; }
 	.science-hero{ margin-bottom: -100px; }
 
 	.nav-wp{ padding: 0; }
-	.nav{ padding: 10px; }
+	.nav{ padding: 10px 20px; }
 		.nav .logo{ font-size: 18px !important; }
 		.nav .logo img{ height: 30px !important; width: 30px !important; margin-right: 10px !important; }
 		.nav .right a{ display: none; }
@@ -309,7 +309,7 @@ footer{ margin-top: 80px; padding-bottom: 100px; }
 			.nav-wp .fronteer-tech .label{ font-size: 24px; }
 			.nav-wp .fronteer-tech .more{ margin-top: 0; }
 			.nav-open .nav-wp .nav{ padding: 10px 20px; }
-	.scrolled .nav-wp .nav{ padding: 10px; }
+	.scrolled .nav-wp .nav{ padding: 10px 20px; }
 	.nav .contents-nav{ display: none !important; }
 
 

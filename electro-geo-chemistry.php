@@ -63,28 +63,8 @@
 					<h2>In-depth description & science</h2>
 					<p>The primary way that Nature consumes excess CO2 over geologic time scales is via rock/mineral weathering (Archer et al. 2009). Here, elevated CO2 acidifies the hydrosphere making carbonic acid that in turn reacts with the very large alkaline mineral reservoir on the Earth’s crust to consume the acidity and CO2, forming dissolved mineral bicarbonates. These bicarbonates then enter the ocean, explaining why, after a few billions years of mineral weathering, ocean bicarbonate is the largest carbon reservoir on the Earth’s surface (38,000 Gt C primarily as dissolved bicarbonate or the equivalent of 139,000 Gt CO2). Given this very large global capacity to consume and store CO2, it is of interest to find ways of cost-effectively accelerating this process so that it is relevant on human/biologic rather than geologic time scales.</p>
 					<p>Over the past 10 years various methods of electrochemically accelerating the preceding mineral weathering have been discovered (House et al. 2007, Rau 2008, Rau et al. 2013, Lu et al. 2015). All of these methods utilize the chemistry generated during water electrolysis to facilitate mineral decomposition and CO2 transformation to mineral bicarbonate, hence the term "electrogeochemistry". While this does require energy to effect air CO2 removal, maybe half of the energy used can be recovered from the H2 produced.</p>
-					<div class="expandable m-2">
-						<div class="toggle">
-							<span class="ic plus">+</span><span class="ic minus">&ndash;</span> Definitions and Units
-						</div>
-						<div class="content">
-							<p>Alkalinity - Constituents of a solution or water body, which are chemical bases that can neutralize acids. Alkaline rocks produce alkalinity when they dissolve.</p>
-							<p>BECCS – energy production via combustion of plant biomass with the capture and storage of the resulting carbon dioxide; a form of negative-emissions energy production.</p>
-							<p>Bicarbonate – a chemical compound composed of hydrogen, carbon and oxygen, with the formula - HCO3. This is very a common dissolved, ionic constituent of the Earth’s hydrosphere/ocean and is the most abundant form of carbon on the Earth’s surface. Certain types of bicarbonate have important uses, e.g. sodium bicarbonate, NaHCO3, or baking soda.</p>
-							<p>CCS – carbon capture and storage, typically referring to the removal of carbon dioxide from an industrial waste source and its storage in concentrated form underground</p>
-							<p>CO2 - carbon dioxide; a colorless, odorless gas given off by the combustion of fossil fuels and other industrial processes, by the metabolism of biota and by volcanic and geothermal processes.</p>
-							<p>DAC – the capture and concentration of atmospheric CO2 by engineered chemical and/or physical means whose end product is concentrated CO2 that can be stored or used.</p>
-							<p>EJ - exajoule; 1 billion billion joules of energy, as used in international scientific literature. 1 joule = 1 watt second, thus 1 watt hour = 3,600 joules. See "kWh" and "TWh" below. </p>
-							<p>Gt – 1 billion metric tons, or tonnes, e.g., 1 Gt CO2 is equivalent to about 70 days of US CO2 emissions. 1 Gt CO2 would fill about 180,000 Goodyear blimps (which would not fly since CO2 is heavier than air).</p>
-							<p>H2 – hydrogen gas; typically formed by the splitting of water or methane.</p>
-							<p>IPCC – Intergovernmental Panel on Climate Change, under auspice of the United Nations</p>
-							<p>kWh – 1,000 watt hours of energy.</p>
-							<p>NE – negative CO2 emissions or carbon dioxide removal from the atmosphere, as caused by various natural and engineered processes.</p>
-							<p>OTEC – Ocean Thermal Energy Conversion; a method of converting the vertical thermal energy potential in the ocean to electrical energy.</p>
-							<p>Tonne – 1 metric ton = 1.1 US tons = 2204.6 lbs.</p>
-							<p>TWh – 1 trillion watt hours of energy; 1 Wh is the energy required to light a 60 watt bulb for 1 minute. 1 TWh = about 2 hours of energy consumption by the US. World energy consumption = 160,000 TWh per year.</p>
-						</div>
-					</div>
+					
+					<?php include "definitions-units.php"; ?>
 
 					<p>A recent analysis (Rau et al. 2018) shows that the global potential for negative-emissions hydrogen (NE H2) to consume CO2 ranges from about 90 to 900 Gt CO2 /yr, based on the minimum and mean ranges in global renewable energy production potentials. For reference, annual human-caused CO2 emissions total about 40 Gt CO2/yr. Furthermore, NE H2 could also generate about 80,000 to 800,000 TWh/yr of zero-emissions energy as H2. Current global energy use is about 160,000 TWh/yr meaning that NE H2 could in theory also satisfy global energy demand with zero emissions. The preceding capacities are significantly larger than the the current IPCC favorite, negative-emissions energy technology – Biomass Energy with Carbon Capture and Storage (BECCS). Yet NE H2 importantly avoids much of the land, water and nutrient impacts that would result from the enhanced land plant production required by BECCS.</p>
 					<p><strong>But wait, there’s more -</strong> Adding additional mineral bicarbonate to the ocean provides  stable C storage, and avoids the risk of having to transport and inject concentrated CO2 underground as required by CCS, BECCS and DAC. Also, amending seawater with additional mineral bicarbonate adds alkalinity, helping counter the effects of increasing CO2-derived ocean acidity and thus restoring ocean chemistry and biology (Marburini and Thake 1999, Albright et al. 2016), a process that naturally occurs via ambient global mineral weathering, though on time scales of 10’s of kyrs.</p>
