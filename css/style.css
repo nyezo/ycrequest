@@ -245,6 +245,7 @@ ol.simple li{ list-style-type: decimal; list-style-position: outside; margin-top
 
 .item-bottom{ align-items: end; }
 	.item-bottom .item{ padding-bottom: 60px; }
+	.item-bottom .item.no-padding{ padding-bottom: 0; }
 .item-center{ align-items: center; }
 
 .fronteer-tech{ display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px; }

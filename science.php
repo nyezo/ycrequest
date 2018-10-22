@@ -226,8 +226,10 @@
 			<hr>
 
 			<section id="section-5">
-				<div class="group item-text">
-					<div class="item"></div>
+				<div class="group item-text item-bottom">
+					<div class="item no-padding">
+						<img src="<?=$baseUrl?>img/enzymes.svg" alt="">
+					</div>
 					<div class="text">
 						<div class="no">4</div>
 						<h2>Enzymes</h2>
