@@ -227,6 +227,7 @@ ol.simple li{ list-style-type: decimal; list-style-position: outside; margin-top
 		.contents h5 img{ position: absolute; top: 25px; left: 0; }
 
 .text-contents{ display: grid; grid-template-columns: 2fr 1fr; grid-gap: 40px; }
+.contents-text{ display: grid; grid-template-columns: 1fr 2fr; grid-gap: 40px; }
 
 .offset{ position: relative; }
 	.offset.abs{ position: absolute; top: 3px; }

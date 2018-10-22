@@ -19,7 +19,9 @@
 				<div class="text-contents">
 					<div class="text">
 						<h2>Carbon dioxide (CO2) and climate change</h2>
-						<p>To help understand why this issue is at the forefront of what we're thinking about we recommend a couple of resources that describe the scope and the immensity of the problem. </p>
+						<p>Although many people agree climate change is one of biggest problems we face, we still find it useful to visualize the magnitude of the challenge. </p>
+						<p>First, have you ever seen CO2? Normally it's invisible to the naked eye, but some researchers have created special cameras that allow you to see it.</p>
+						<!--
 						<div class="cols cols-2 mt-2">
 							<div class="extras">
 								<h5>WATCH A VIDEO</h5>
@@ -36,6 +38,7 @@
 								</ul>
 							</div>
 						</div>
+					-->
 					</div>
 					<div class="contents extras" id="contents">
 						<h5>Contents</h5>
@@ -46,6 +49,40 @@
 							<li><a href="#section-4">Agriculture vs Cell Cultures</a></li>
 							<li><a href="#section-5">Enzymes</a></li>
 						</ol>
+					</div>
+				</div>
+				<div class="contents-text mt-2">
+					<div class="item">
+						<div class="contents extras">
+							<div class="extras">
+								<h5>WATCH A VIDEO</h5>
+								<ul class="has-icons">
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="#">Visualize CO2 using special cameras.</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="text">
+						<p>Imagine walking down the street and looking at all that pollution around us.</p>
+						<p>Next, on this RFS, we'll be talking a lot about the 35 billion tons of CO2 released in the air every year. Picturing that is really hard, so let's start with something simple: one tonne of CO2 in solid form. Measured and stored at standard atmospheric pressure, one ton of CO2 can fill a cube roughly the size of a three-story building (27 feet x 27 feet x 27 feet).</p>
+					</div>
+				</div>
+				<div class="text-contents mt-2">
+					<div class="text">
+						<p>In solid form, 35,000,000,000 three story buildings worth of CO2 is released every year.</p>
+						<p>To learn more the general background behind climate change, its frightening feedback loops and tipping points, we recommend watching The World Set Free, an episode from Cosmos: A Spacetime Odyssey by Neil deGrasse Tyson, or An Inconvenient Truth by Al Gore.</p>
+						<p>The <a href="http://www.ipcc.ch/report/sr15/">2018 IPCC report</a> contains the latest informations and research that we have on this subject.</p>
+						<p>Next we'll go into a bit of basic knowledge that are useful to know as you are reading the ideas.</p>
+					</div>
+					<div class="item">
+						<div class="contents extras">
+							<div class="extras">
+								<h5>WATCH A VIDEO</h5>
+								<ul class="has-icons">
+									<li><img class="icon-video" src="<?=$baseUrl?>img/icon-video.svg" alt=""><a href="#">What 1 tonne of CO2 looks like. 35 Billion tonnes of CO2 is released per year.</a></li>
+								</ul>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>

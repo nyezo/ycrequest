@@ -16,7 +16,7 @@
         'science',
     ];
 
-    $baseUrl = '/';
+    $baseUrl = '/yc/';
     $applyUrl = 'http://www.ycombinator.com/apply/';
 
 ?>

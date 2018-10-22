@@ -3,8 +3,9 @@ $(document).ready(function(){
 	$(window).scroll(function(){
 		var scrollTop = $(window).scrollTop();
 		var minScroll = 300;
-		if($("#contents")){
-			minScroll = $("#contents").offset().top + $("#contents").outerHeight() + 50;
+		if($("#contents").length){
+			offset = $("#contents").offset();
+			minScroll = offset.top + $("#contents").outerHeight() + 50;
 		}
 		if(scrollTop > minScroll){
 			$('body').addClass('scrolled');
