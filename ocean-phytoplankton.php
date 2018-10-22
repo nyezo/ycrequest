@@ -125,9 +125,11 @@
 						<h3 class="p-r mt-2"><div class="no offset not-mob">3</div>Metal-free biology/Mineral-free biology/alternative biochemistry/second abiogenesis</h3>
 						<p>Up until now, we have stayed within the limits of known biology. Everything up till now has precedent. But we want to think big. So we are leaving precedent behind and trekking into future technologies.</p>
 						<p>As we mentioned, mineral limitations are a major problem for using phytoplankton as a CDR tool. Many of these minerals are metals. These metals are used in various enzymes called metalloenzymes. All organisms have metalloenzymes. This may be leftover from life's early evolution and may not necessarily be a necessity for biochemistry. For examples, the organisms Borrelia burgdorferi (lyme disease) and Lactobacillus plantarum (yogurt) have eliminated all iron from their metalloenzymes and instead use a different metal called manganese. This suggests that there is some flexibility with metalloenzymes. If we could change or eliminate the metal or mineral requirements of phytoplankton, they might be able to grow in photosynthetic dead zones that have everything needed for CDR except for minerals.</p>
+					</div>
+					<img src="<?=$baseUrl?>img/ill-phyto-3.svg" alt="">
+					<div class="padded-80">
 						<p>However, even if we were to remove all metals from biology, other nutrients become rate limiting. It is not possible to eliminate phosphorous from life because phosphorous is central to so many parts of biochemistry: chemical backbone of DNA and RNA (called phosphodiester bonds), ATP, the phospholipid bilayer, and many more.</p>
 						<p>The question then becomes, whether we can create new genetic chemistries that are not based on DNA, but some new genetic polymer? New proteins? New metabolism? Can we assemble these components into a form of biology that only needs CO2, nitrogen, water, and sunlight? Solving this problem is probably not feasible without major advances in biomolecular engineering. However, if we were able to create such a system, it would present a very effective tool for CDR.</p>
-
 					</div>
 					
 				</div>
