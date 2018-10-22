@@ -17,7 +17,7 @@ textarea{ outline: none; }
 *{ box-sizing: border-box; }
 
 body{ font-family: 'Lora', serif; font-weight: 400; color: #464545; font-size: 18px; line-height: 30px; background: #F6F6EF; padding: 0; }
-	body.scrolled{ padding-top: 110px; }
+	body.scrolled{ }
 	body.nav-open{ overflow: hidden; }
 
 .container{ padding: 0 40px;  }
