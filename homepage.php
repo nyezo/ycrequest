@@ -58,7 +58,7 @@
 						<div class="p-r">
 							<img class="offset abs offset-left not-mob" src="<?=$baseUrl?>img/icon-bulb.svg" alt="">
 							<h5 class="orange">About these ideas</h5>
-							<div class="sans">Ideas contributed by Gabriel Lopez, Zack Abbott, Greg Rau, Leonid Kozhunk, and Sam Altman. We are excited to fund any other approaches, even if they are not <a href="https://www.nationalgeographic.com/people-and-culture/food/the-plate/2016/11/seaweed-may-be-the-solution-for-burping-cows/?user.testname=none" target="_blank">not related</a> to carbon sequestration.
+							<div class="sans">Ideas contributed by Gabriel Lopez, Zack Abbott, Greg Rau, Leonid Kozhunk, and Sam Altman. We are excited to fund any other approaches, even if they ar <a href="https://www.nationalgeographic.com/people-and-culture/food/the-plate/2016/11/seaweed-may-be-the-solution-for-burping-cows" target="_blank">not related</a> to carbon sequestration.
 						</div>
 					</div>
 				</div>
